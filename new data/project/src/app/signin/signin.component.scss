@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+.example-card {
+    max-width: 400px;
+    margin-top: 10%;
+    margin-left: 31%;
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  .login{
+    font-family: 'Playball', cursive;
+  }
+  .example-card{
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+  }
+  .login{
+    font-family: 'Kaushan Script', cursive;
+  }
+  .example-full-width{
+    margin-top: 20px;
+  }
+  .submit{
+    color:navy;
+    background-color: whitesmoke;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    font-family: 'Kaushan Script', cursive;
+  
+  }
